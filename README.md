@@ -32,7 +32,7 @@
 
 </details>
 
-<details open>
+
  <summary>what I'm using <summary/>
 
 
@@ -41,5 +41,5 @@
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 
 ![](https://komarev.com/ghpvc/?username=jlassi1&color=brightgreen&style=plastic&label=Views)
-</details>
+
 

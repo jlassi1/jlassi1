@@ -11,7 +11,7 @@
 - ⚡ Fun fact:  I'm a physics teacher :pencil:.
 <br />
 
-## 📕 Latest Blog Posts
+## 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [A guide to transfer learning with Keras using DenseNet201](https://khawlajlassi1990.medium.com/a-guide-to-transfer-learning-with-keras-using-densenet201-48c617ceb2e2)
@@ -21,16 +21,16 @@
 - [Khrafa Is An App Now](https://www.linkedin.com/pulse/khrafa-app-now-khawla-jlassi/?trackingId=CpqpGsyYmS%2FgQLPvo%2FwvSg%3D%3D)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://myblogg.tech)
 
-<details open>
+
+
   <summary>:zap:Quick overview of my daily commits <summary/>
 
 
    <img align="left" alt="jlassi1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jlassi1&show_icons=true&hide_border=true&theme=dracula" />
 
 
-</details>
+
 
 
  <summary>what I'm using <summary/>

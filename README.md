@@ -24,11 +24,11 @@
 
 
 
-## Quick overview of my daily commits
+## Overview of my daily commits
 
 [![jlassi1's github stats](https://github-readme-stats.vercel.app/api?username=jlassi1&show_icons=true)](https://github.com/jlassi1)
 
-## What I'm using
+## What I'm working with frequently 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlassi1&layout=compact)](https://github.com/jlassi1)
 

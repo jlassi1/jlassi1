@@ -24,19 +24,14 @@
 
 
 
-  <summary>:zap:Quick overview of my daily commits <summary/>
+## Quick overview of my daily commits
 
+[![jlassi1's github stats](https://github-readme-stats.vercel.app/api?username=jlassi1&show_icons=true)](https://github.com/jlassi1)
 
-   <img align="left" alt="jlassi1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jlassi1&show_icons=true&hide_border=true&theme=dracula" />
+## What I'm using
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlassi1&layout=compact)](https://github.com/jlassi1)
 
-
-
-
- <summary>what I'm using <summary/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlassi1&layout=compact&langs_count=8)](https://github.com/jlassi1/github-readme-stats)
 
 <a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
 

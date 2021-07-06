@@ -14,6 +14,7 @@
 ## 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+-[Time Series Forecasting Forecast Bitcoin](https://khawlajlassi1990.medium.com/time-series-forecasting-forecast-bitcoin-2c8894a5e44f)
 - [A guide to transfer learning with Keras using DenseNet201](https://khawlajlassi1990.medium.com/a-guide-to-transfer-learning-with-keras-using-densenet201-48c617ceb2e2)
 - [Deep Convolutional Neural Networks (AlexNet)](https://khawlajlassi1990.medium.com/deep-convolutional-neural-networks-alexnet-278595709aac)
 - [Regularization Techniques in Deep Learning](https://khawlajlassi1990.medium.com/regularization-techniques-in-deep-learning-24b13aff1d3f)

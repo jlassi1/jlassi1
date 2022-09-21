@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlassi1&langs_count=12&hide=html&layout=compact)](https://github.com/jlassi1)
 
 
-<a href="http://semenaxcaps.com"><img src="http://semenaxcaps.com/count.php?c_style=77&id=1607729109" border="0" alt="semenaxcaps.com"></a><br>
+
 
 ![](https://komarev.com/ghpvc/?username=jlassi1&color=brightgreen&style=plastic&label=Views)
 
